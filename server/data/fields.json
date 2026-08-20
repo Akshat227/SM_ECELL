@@ -1,0 +1,37 @@
+[
+  {
+    "id": "full_name",
+    "label": "Full Name",
+    "type": "text",
+    "placeholder": "Enter your full name",
+    "required": true
+  },
+  {
+    "id": "phone",
+    "label": "Phone Number",
+    "type": "tel",
+    "placeholder": "+91 98765 43210",
+    "required": true
+  },
+  {
+    "id": "email",
+    "label": "Email",
+    "type": "email",
+    "placeholder": "you@example.com",
+    "required": true
+  },
+  {
+    "id": "roll_no",
+    "label": "Roll No",
+    "type": "text",
+    "placeholder": "e.g. 2024CSE001",
+    "required": true
+  },
+  {
+    "id": "erp_id",
+    "label": "ERP ID",
+    "type": "text",
+    "placeholder": "e.g. 12345678",
+    "required": true
+  }
+]
